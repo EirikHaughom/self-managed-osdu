@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 
-tenant_name = "<your_tenant>"
+tenant_name = "eihaugho"
 
 prefix = "osdu-self"
 
@@ -33,8 +33,8 @@ action-groups = {
     short-name = "dev-ag",
     email-receiver = [
       {
-        name                = "primary receiver",
-        email-address       = "dummy@microsoft.com",
+        name                = "Eirik Haughom",
+        email-address       = "eihaugho@microsoft.com",
         common-alert-schema = false
       }
     ],
